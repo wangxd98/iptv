@@ -1,0 +1,29 @@
+电视直播源搜索引
+http://www.foodieguide.com/iptvsearch/
+
+IPTV直播源监控
+https://hello-github-ui.github.io/Collect-IPTV/
+
+鳳凰衛視資訊台
+copy to clip
+https://c958c7-ceb9ea-ea3a.kylintv.tv/live/pxinhd_iphone.m3u8
+07-02-2026 Guangdong checked •1280x720 FasterFaster
+鳳凰衛視美洲台
+copy to clip
+https://c958c7-ceb9ea-ea3a.kylintv.tv/live/pxnaus_iphone.m3u8
+07-01-2026 Anhui checked •1280x720 Fast
+鳳凰衛視香港台
+copy to clip
+https://c958c7-ceb9ea-ea3a.kylintv.tv/live/pxhkus_iphone.m3u8
+06-30-2026 California checked •1280x720
+鳳凰衛視中文台
+copy to clip
+https://c958c7-ceb9ea-ea3a.kylintv.tv/live/pxinhd_iphone.m3u8
+06-29-2026 Liaoning checked •1280x720
+鳳凰衛視香港台
+copy to clip
+https://iptv.852851.xyz/ch/1183bed3a5b7e98e94e1ca51f890a1bb/master.m3u8
+06-04-2026 Guangdong checked •1920x1080 Fast
+鳳凰衛視中文台
+copy to clip
+https://iptv.852851.xyz/ch/b10f1a92a9e4876471425f3f287304fa/master.m3u8
